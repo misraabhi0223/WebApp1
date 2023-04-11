@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+plotly
+joblib
+seaborn
+numpy
+pandas
